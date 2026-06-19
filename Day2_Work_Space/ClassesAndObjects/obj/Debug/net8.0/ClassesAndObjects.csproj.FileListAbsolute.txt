@@ -1,0 +1,14 @@
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.exe
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.deps.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.runtimeconfig.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\bin\Debug\net8.0\ClassesAndObjects.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\refint\ClassesAndObjects.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\ClassesAndObjects.genruntimeconfig.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\ClassesAndObjects\obj\Debug\net8.0\ref\ClassesAndObjects.dll

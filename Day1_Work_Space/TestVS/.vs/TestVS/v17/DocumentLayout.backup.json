@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestVS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0226CD-B5E3-4878-B4F8-B867550978FE}|..\\TestLibrary1\\TestLibrary1.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\testlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0226CD-B5E3-4878-B4F8-B867550978FE}|..\\TestLibrary1\\TestLibrary1.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\testlibrary1\\testlibrary1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0226CD-B5E3-4878-B4F8-B867550978FE}|..\\TestLibrary1\\TestLibrary1.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\testlibrary1\\testlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF2CA60-AACD-4694-A290-1D179B3395D3}|..\\MyWinForm\\MyWinForm.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\mywinform\\mywinform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812104C1-3CAF-405A-862D-CB6D1B5752AC}|..\\MyLibrary1\\MyLibrary1.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\mylibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63A874D-0070-4F43-A5AF-B89393EB1BB7}|TestVS.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\testvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63A874D-0070-4F43-A5AF-B89393EB1BB7}|TestVS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812104C1-3CAF-405A-862D-CB6D1B5752AC}|..\\MyLibrary1\\MyLibrary1.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\mylibrary1\\mylibrary1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF2CA60-AACD-4694-A290-1D179B3395D3}|..\\MyWinForm\\MyWinForm.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\mywinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63A874D-0070-4F43-A5AF-B89393EB1BB7}|TestVS.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\testvs\\testvs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F63A874D-0070-4F43-A5AF-B89393EB1BB7}|TestVS.csproj|solutionrelative:testvs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63A874D-0070-4F43-A5AF-B89393EB1BB7}|TestVS.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\testvs\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{F63A874D-0070-4F43-A5AF-B89393EB1BB7}|TestVS.csproj|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF2CA60-AACD-4694-A290-1D179B3395D3}|..\\MyWinForm\\MyWinForm.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\mywinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF2CA60-AACD-4694-A290-1D179B3395D3}|..\\MyWinForm\\MyWinForm.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\day1_work_space\\mywinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyWinForm.csproj",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyWinForm\\MyWinForm.csproj",
+              "RelativeDocumentMoniker": "..\\MyWinForm\\MyWinForm.csproj",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyWinForm\\MyWinForm.csproj",
+              "RelativeToolTip": "..\\MyWinForm\\MyWinForm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-17T17:35:07.308Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestLibrary1",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestLibrary1\\TestLibrary1.csproj",
+              "RelativeDocumentMoniker": "..\\TestLibrary1\\TestLibrary1.csproj",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestLibrary1\\TestLibrary1.csproj",
+              "RelativeToolTip": "..\\TestLibrary1\\TestLibrary1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-18T12:14:28.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyLibrary1",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyLibrary1\\MyLibrary1.csproj",
+              "RelativeDocumentMoniker": "..\\MyLibrary1\\MyLibrary1.csproj",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyLibrary1\\MyLibrary1.csproj",
+              "RelativeToolTip": "..\\MyLibrary1\\MyLibrary1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-18T12:13:34.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestLibrary1.csproj",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestLibrary1\\TestLibrary1.csproj",
+              "RelativeDocumentMoniker": "..\\TestLibrary1\\TestLibrary1.csproj",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestLibrary1\\TestLibrary1.csproj*",
+              "RelativeToolTip": "..\\TestLibrary1\\TestLibrary1.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-18T05:06:43.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestVS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestVS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:58:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestVS\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestVS\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-17T18:58:23.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestVS.csproj",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestVS\\TestVS.csproj",
+              "RelativeDocumentMoniker": "TestVS.csproj",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestVS\\TestVS.csproj",
+              "RelativeToolTip": "TestVS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-17T18:58:13.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\TestLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\TestLibrary1\\Class1.cs",
+              "RelativeToolTip": "..\\TestLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:03:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MyLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyLibrary1\\Class1.cs",
+              "RelativeToolTip": "..\\MyLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:59:20.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\MyWinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyWinForm\\Form1.cs",
+              "RelativeToolTip": "..\\MyWinForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:40:44.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyWinForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\MyWinForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyWinForm\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\MyWinForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:40:12.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\MyWinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Day1_Work_Space\\MyWinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\MyWinForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:34:17.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\bin\Debug\net8.0\StaticDemo.exe
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\bin\Debug\net8.0\StaticDemo.deps.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\bin\Debug\net8.0\StaticDemo.runtimeconfig.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\bin\Debug\net8.0\StaticDemo.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\bin\Debug\net8.0\StaticDemo.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\StaticDemo.AssemblyInfoInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\StaticDemo.AssemblyInfo.cs
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\StaticDemo.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\refint\StaticDemo.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\StaticDemo.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\StaticDemo.genruntimeconfig.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day3_Work_Space\StaticDemo\obj\Debug\net8.0\ref\StaticDemo.dll

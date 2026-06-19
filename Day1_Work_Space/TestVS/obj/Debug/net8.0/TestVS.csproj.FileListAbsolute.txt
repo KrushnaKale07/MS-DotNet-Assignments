@@ -1,0 +1,14 @@
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\bin\Debug\net8.0\TestVS.exe
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\bin\Debug\net8.0\TestVS.deps.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\bin\Debug\net8.0\TestVS.runtimeconfig.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\bin\Debug\net8.0\TestVS.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\bin\Debug\net8.0\TestVS.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\TestVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\TestVS.AssemblyInfoInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\TestVS.AssemblyInfo.cs
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\TestVS.csproj.CoreCompileInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\TestVS.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\refint\TestVS.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\TestVS.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\TestVS.genruntimeconfig.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\TestVS\obj\Debug\net8.0\ref\TestVS.dll

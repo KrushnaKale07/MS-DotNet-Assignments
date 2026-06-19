@@ -1,0 +1,11 @@
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\bin\Debug\net8.0\MyLibrary1.deps.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\bin\Debug\net8.0\MyLibrary1.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\bin\Debug\net8.0\MyLibrary1.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\obj\Debug\net8.0\MyLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\obj\Debug\net8.0\MyLibrary1.AssemblyInfoInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\obj\Debug\net8.0\MyLibrary1.AssemblyInfo.cs
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\obj\Debug\net8.0\MyLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\obj\Debug\net8.0\MyLibrary1.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\obj\Debug\net8.0\refint\MyLibrary1.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\obj\Debug\net8.0\MyLibrary1.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyLibrary1\obj\Debug\net8.0\ref\MyLibrary1.dll

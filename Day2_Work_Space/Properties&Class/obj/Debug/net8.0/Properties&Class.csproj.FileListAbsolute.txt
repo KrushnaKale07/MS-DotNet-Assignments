@@ -1,0 +1,14 @@
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\bin\Debug\net8.0\Properties&Class.exe
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\bin\Debug\net8.0\Properties&Class.deps.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\bin\Debug\net8.0\Properties&Class.runtimeconfig.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\bin\Debug\net8.0\Properties&Class.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\bin\Debug\net8.0\Properties&Class.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\Properties&Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\Properties&Class.AssemblyInfoInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\Properties&Class.AssemblyInfo.cs
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\Properties&Class.csproj.CoreCompileInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\Properties&Class.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\refint\Properties&Class.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\Properties&Class.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\Properties&Class.genruntimeconfig.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day2_Work_Space\Properties&Class\obj\Debug\net8.0\ref\Properties&Class.dll

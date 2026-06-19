@@ -1,0 +1,16 @@
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\bin\Debug\net8.0-windows\MyWinForm.exe
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\bin\Debug\net8.0-windows\MyWinForm.deps.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\bin\Debug\net8.0-windows\MyWinForm.runtimeconfig.json
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\bin\Debug\net8.0-windows\MyWinForm.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\bin\Debug\net8.0-windows\MyWinForm.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.Form1.resources
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.csproj.GenerateResource.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.AssemblyInfoInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.AssemblyInfo.cs
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.csproj.CoreCompileInputs.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\refint\MyWinForm.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.pdb
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\MyWinForm.genruntimeconfig.cache
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Day1_Work_Space\MyWinForm\obj\Debug\net8.0-windows\ref\MyWinForm.dll
