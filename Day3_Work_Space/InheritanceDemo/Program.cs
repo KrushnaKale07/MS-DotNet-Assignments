@@ -54,7 +54,7 @@
     }
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             //Circle c1 = new Circle();
             //c1.Radius = 10;
@@ -70,4 +70,55 @@
             shape.PrintArea();
         }
     }
+}
+
+namespace NewKeyWordDemo {
+    class Shape {
+        public double area;
+        public double perimeter;
+
+        public void PrintArea() {
+            Console.WriteLine("Area : " + this.area);
+        }
+
+        public void PrintPerimeter()
+        {
+            Console.WriteLine("Perimeter : " + this.perimeter);
+        }
+        public new void CalculateArea() {
+            Console.WriteLine("Area of shape");
+        }
+    }
+
+    class Circle : Shape { 
+        private double radius;
+        
+        public double Radius { 
+            get { return this.radius; } set { this.radius = value; }
+        }
+        public new void CalculateArea() { 
+
+            this.area = Math.PI * this.radius * this.radius;
+        }
+    }
+
+    class Rectangle : Shape {
+        public double length;
+        public double width;
+
+        public new void CalculateArea() { 
+            this.area = this.length * this.width;
+        }
+    }
+
+    internal class  Program
+    {
+        public static void Main(string[] args) { 
+            Rectangle r1 = new Rectangle() { length = 10, width = 20};
+            r1.CalculateArea();
+            r1.PrintArea();
+        }
+        
+    }
+
 }
