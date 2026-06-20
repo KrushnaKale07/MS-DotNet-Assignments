@@ -1,5 +1,7 @@
 ﻿
 
+using EmployeeExample;
+
 namespace TestOne
 {
     internal class Program
@@ -123,9 +125,32 @@ namespace EmployeeExample {
     }
 
     internal class EmployeeMtest {
-        static void Main() { 
+        static void Main1() { 
             EmployeeManager manager = new EmployeeManager(10, "Computer", 101, "Krushna");
             manager.PrintEM();
+        }
+    }
+}
+namespace AccessModifiers {
+    class TestOne
+    {
+        private int id;
+        protected int age;
+
+        public int Id
+        {
+            get { return id; }
+            set { id = value; }
+        }
+
+    }
+    class TestTwo : TestOne
+    {
+        private string name;
+
+        void Show()
+        {
+            Console.WriteLine("Id: " + this.Id + " Name: " + this.name + " Age: " + this.age);
         }
     }
 }
