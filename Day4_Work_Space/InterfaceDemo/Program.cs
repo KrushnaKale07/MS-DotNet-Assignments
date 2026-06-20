@@ -24,9 +24,68 @@
     }
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Hello, World!");
         }
     }
+}
+namespace InterfaceInheritance
+{
+    interface MyInterface1
+    {
+        void Method1();
+        void Method2();
+    }
+    interface MyInterface2
+    {
+        void Method2();
+
+    }
+
+    interface MyInterface3 : MyInterface1, MyInterface2     //Multiple Inheritance
+    {
+        void Method3();
+    }
+
+    class TestOne : MyInterface3
+    {
+        public void Method1()
+        {
+            Console.WriteLine("Method1 of Interface1 by Test One");
+        }
+
+        public void Method2()
+        {
+            Console.WriteLine("Method2 of Interface2 by Test One");
+        }
+
+        void MyInterface1.Method2()
+        {
+            Console.WriteLine("Method2 of Interface1 by Test One");
+        }
+
+        public void Method3()
+        {
+            Console.WriteLine("Method3 of Interface3 by Test One");
+        }
+    }
+
+    internal class TestInterfaces
+    {
+        static void Main()
+        {
+            TestOne t1 = new TestOne();
+
+            t1.Method1();
+            t1.Method2();
+            t1.Method3();
+
+            MyInterface1 mt = new TestOne();
+            mt.Method2();
+        }
+    }
+
+
+
 }
