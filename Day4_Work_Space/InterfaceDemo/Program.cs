@@ -73,7 +73,7 @@ namespace InterfaceInheritance
 
     internal class TestInterfaces
     {
-        static void Main()
+        static void Main1()
         {
             TestOne t1 = new TestOne();
 
@@ -85,7 +85,31 @@ namespace InterfaceInheritance
             mt.Method2();
         }
     }
+}
+namespace DestructorDemo {
+    class TestOne
+    {
+        public int Num1;
 
+        public TestOne()
+        {
+            this.Num1 = 1;
+            Console.WriteLine("Cons of Testone");
+        }
 
+        ~TestOne()
+        {
+            Console.WriteLine("Destructor Called");
+        }
+    }
 
+    internal class TestOneDemo
+    {
+        static void Main()
+        {
+            TestOne t1 = new TestOne();
+
+            Console.WriteLine("Num1: " + t1.Num1);
+        }
+    }
 }
