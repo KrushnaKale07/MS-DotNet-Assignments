@@ -1,4 +1,6 @@
-﻿namespace TestOne
+﻿
+
+namespace TestOne
 {
     internal class Program
     {
@@ -46,7 +48,7 @@ namespace TestTwo
         }
     }
 }
-namespace testThree
+namespace TestThree
 {
     class TestThree
     {
@@ -75,8 +77,55 @@ namespace testThree
     }
 
     internal class TestConsHeiarachy {
-        static void Main() { 
+        static void Main1() { 
             TestFour t1 = new TestFour(10,20);
+        }
+    }
+}
+namespace EmployeeExample {
+    class Employee {
+        public int Id;
+        public string Name;
+
+        public Employee() { 
+            
+        }
+        public Employee(int id, string name) { 
+            Id = id;
+            Name = name;
+        }
+
+        public void PrintEmployee()
+        {
+            Console.WriteLine("Id: " + this.Id + " Name: " + this.Name);
+        }
+    }
+
+    class EmployeeManager : Employee {
+        public int TeamSize;
+        public string DeptName;
+
+        public EmployeeManager() { 
+            
+        }
+
+        public EmployeeManager(int teamSize, string depyName, int id, string name) : base(id, name)
+        { 
+            TeamSize = teamSize;
+            DeptName = depyName;
+        }
+
+        public void PrintEM()
+        {
+            this.PrintEmployee();
+            Console.WriteLine("TeamSize : "+ this.TeamSize + " DeptName : " + this.DeptName);
+        }
+    }
+
+    internal class EmployeeMtest {
+        static void Main() { 
+            EmployeeManager manager = new EmployeeManager(10, "Computer", 101, "Krushna");
+            manager.PrintEM();
         }
     }
 }
