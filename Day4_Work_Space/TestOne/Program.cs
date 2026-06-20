@@ -34,7 +34,7 @@ namespace TestTwo
         }
 
         internal class TestOneDemo { 
-            static void Main() { 
+            static void Main1() { 
 
                 //TestOne t1 = new TestOne();
                 //TestOne t2 = new TestOne(10);
@@ -43,6 +43,40 @@ namespace TestTwo
 
                 TestOne t5 = new TestOne(1, 2, 3);
             }
+        }
+    }
+}
+namespace testThree
+{
+    class TestThree
+    {
+
+        public int x;
+        public TestThree()
+        {
+            Console.WriteLine("Am zero args cons of TestThree");
+        }
+        public TestThree(int x)
+        {
+            this.x = x;
+            Console.WriteLine("Am one args cons of TestThree");
+        }
+    }
+    class TestFour : TestThree {
+        public int y;
+        public TestFour() {
+            Console.WriteLine("Am zero args cons of TestFour");
+        }
+        public TestFour(int x, int y) : base(x)
+        {
+            this.y = y;
+            Console.WriteLine("Am one args cons of TestFour");
+        }
+    }
+
+    internal class TestConsHeiarachy {
+        static void Main() { 
+            TestFour t1 = new TestFour(10,20);
         }
     }
 }
