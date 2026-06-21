@@ -33,7 +33,7 @@ namespace OperatorOverloading
     }
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int Num1 = 100;
             TestOne t1 = new TestOne(10,20);
@@ -48,3 +48,30 @@ namespace OperatorOverloading
         }
     }
 }
+namespace StructDemo
+{
+    struct Employee {
+        public int Id;
+        public string Name;
+        public float Salary;
+
+        public void Print() {  
+            Console.WriteLine("Id: " + this.Id + " Name : "+ this.Name + " Salary : "+ this.Salary);
+        }
+    }
+
+    internal class TestStruct { 
+
+        static void Main() { 
+
+        Employee e1 = new Employee();
+        e1.Id = 1;
+        e1.Name = "Krushna";
+        e1.Salary = 700000.56f;
+
+            e1.Print();
+        }
+
+    }
+}
+
