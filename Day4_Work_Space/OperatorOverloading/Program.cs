@@ -62,7 +62,7 @@ namespace StructDemo
 
     internal class TestStruct { 
 
-        static void Main() { 
+        static void Main1() { 
 
         Employee e1 = new Employee();
         e1.Id = 1;
@@ -74,4 +74,37 @@ namespace StructDemo
 
     }
 }
+namespace OutAndRef {
 
+    internal class TestOne {
+        public static void Update(ref int x)
+        {
+            x = x = 1;
+        }
+
+        public static void UpdateValues(int x, int y, out int sum, out int product) {
+            sum = x + y;
+            product = x*y;
+        
+        }
+
+        static void Main1() { 
+            int sum, product;
+            int num1 = 10, Num2 = 5;
+            UpdateValues(num1, Num2, out sum, out product);
+            Console.WriteLine("Sum of Num1 and Num2 : " + sum);
+            Console.WriteLine("Mul of Num1 and Num2 : " + product);
+        }
+
+        static void Main()
+        {
+            int Num1 = 100;
+            Console.WriteLine("Num1 before calling Update: " + Num1);
+
+            Update(ref Num1);
+
+            Console.WriteLine("Num1 after calling Update: " + Num1);
+        }
+    }
+   
+}
