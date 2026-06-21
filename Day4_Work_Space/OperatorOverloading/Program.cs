@@ -88,7 +88,7 @@ namespace OutAndRef {
         
         }
 
-        static void Main1() { 
+        static void Main2() { 
             int sum, product;
             int num1 = 10, Num2 = 5;
             UpdateValues(num1, Num2, out sum, out product);
@@ -96,7 +96,7 @@ namespace OutAndRef {
             Console.WriteLine("Mul of Num1 and Num2 : " + product);
         }
 
-        static void Main()
+        static void Main1()
         {
             int Num1 = 100;
             Console.WriteLine("Num1 before calling Update: " + Num1);
@@ -107,4 +107,35 @@ namespace OutAndRef {
         }
     }
    
+}
+namespace NullableTypes
+{
+    internal class NullableTypes 
+    {
+        public static void Main1() {
+            int? Num1 = 100;
+            if (Num1 != null) {
+                Console.WriteLine(Num1);
+            }
+        }
+        
+    }
+}
+namespace NullCoalescasingOp {
+    internal class Program {
+
+        static void Main() { 
+            string? str = null;
+            string? str2 = "Krushna";
+            string str3 = str ?? str2;
+
+            Console.WriteLine(str3);
+            int? x = null;
+            int? y = 100;
+
+            int? z = x ?? y;
+            Console.WriteLine(z);
+
+        }
+    }
 }
