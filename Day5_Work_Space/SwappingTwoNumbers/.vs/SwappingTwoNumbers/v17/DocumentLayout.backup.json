@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day5_Work_Space\\SwappingTwoNumbers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF9C8F96-0553-4895-8F4D-F188360CD657}|..\\CollectionImplementation\\CollectionImplementation.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day5_work_space\\collectionimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B16FE82C-5C51-41D8-A3BD-DCB3BEBB6601}|SwappingTwoNumbers.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day5_work_space\\swappingtwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16FE82C-5C51-41D8-A3BD-DCB3BEBB6601}|SwappingTwoNumbers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day5_Work_Space\\CollectionImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CollectionImplementation\\Program.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day5_Work_Space\\CollectionImplementation\\Program.cs",
+              "RelativeToolTip": "..\\CollectionImplementation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T16:58:39.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day5_Work_Space\\SwappingTwoNumbers\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
