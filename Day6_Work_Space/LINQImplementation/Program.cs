@@ -8,7 +8,32 @@ namespace LINQImplementation
     }
     internal class Program
     {
-        static void Main(string[] args)
+
+        static void Main()
+        {
+            List<Student> list = new List<Student>();
+
+            list.Add(new Student { Id = 101, Name = "Sanjay", Age = 24 });
+            list.Add(new Student { Id = 102, Name = "Abhi", Age = 22 });
+            list.Add(new Student { Id = 103, Name = "Zeenat", Age = 28 });
+            list.Add(new Student { Id = 105, Name = "Celena", Age = 31 });
+            list.Add(new Student { Id = 104, Name = "Bimal", Age = 37 });
+
+
+            var students = (from s in list orderby s.Id descending select s).Take(3);
+
+            int count = (from s in list orderby s.Id descending select s).Count();
+
+            //Console.WriteLine(count);
+
+            foreach (Student s in students)
+            {
+                Console.WriteLine("Id: " + s.Id + " Name: " + s.Name + " Age: " + s.Age);
+            }
+
+        }
+
+        static void Main3(string[] args)
         {
             List<Student> list = new List<Student>();
 
