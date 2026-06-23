@@ -42,11 +42,36 @@ namespace AnonymousTypes
 {
     internal class Program
     {
-        static void Main()
+        static void Main1()
         {
             var person = new { Name = "Krushna", Age = 26, Salary = 80000.56 };
             Console.WriteLine("name : " + person.Name + " Age : " + person.Age + " Salary : " + person.Salary);
 
         }
     }
+}
+namespace ExtentionMethod {
+    class Test {
+        public void Display() {
+            Console.WriteLine("Am Display of Test");
+
+        }
+    }
+
+    static class ExtentionMethodClass {
+        public static void ExtendedShow( this Test test) { 
+            Console.WriteLine("Am Show of Test defined as Extention method"); 
+        }
+    }
+
+    internal class Program {
+        static void Main() { 
+
+            Test t = new Test();
+
+            t.Display();
+            t.ExtendedShow();
+        }
+    }
+
 }
