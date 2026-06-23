@@ -26,10 +26,17 @@ namespace LINQImplementation
 
             //Console.WriteLine(count);
 
-            foreach (Student s in students)
-            {
-                Console.WriteLine("Id: " + s.Id + " Name: " + s.Name + " Age: " + s.Age);
-            }
+            //foreach (Student s in students)
+            //{
+            //    Console.WriteLine("Id: " + s.Id + " Name: " + s.Name + " Age: " + s.Age);
+            //}
+
+            double AgeAv = list.Average(x => x.Age);
+
+            Console.WriteLine(AgeAv);
+
+            double plinq = list.AsParallel().Average(x => x.Age);
+
 
         }
 
