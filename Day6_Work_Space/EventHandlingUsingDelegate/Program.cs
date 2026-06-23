@@ -5,7 +5,7 @@
 
         public static event ScoreHandler scoreReached;
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             scoreReached += onScoreReached;
 
@@ -37,4 +37,16 @@
     //        Console.WriteLine("Hello, World!");
     //    }
     //}
+}
+namespace AnonymousTypes
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            var person = new { Name = "Krushna", Age = 26, Salary = 80000.56 };
+            Console.WriteLine("name : " + person.Name + " Age : " + person.Age + " Salary : " + person.Salary);
+
+        }
+    }
 }
