@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiThreadingImplementation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+554d1f1f951a5484e93ea699d2faf583083f8dcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57d8f16b9cb2f52b69e13f4166256fc2b789880c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiThreadingImplementation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiThreadingImplementation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

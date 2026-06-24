@@ -69,7 +69,7 @@ namespace MultiThreadingImplDemo3 {
             }
         }
 
-        static void Main(string[] args) {
+        static void Main1(string[] args) {
             Console.WriteLine("Hello, From Main: "+ Thread.CurrentThread.Name);
 
             ParameterizedThreadStart pts = new ParameterizedThreadStart(PrintMessage);
@@ -88,6 +88,23 @@ namespace MultiThreadingImplDemo3 {
 
 
             Console.WriteLine("Main Ends Here: " + Thread.CurrentThread.Name);
+        }
+    }
+}
+namespace MultiThreadingImplDemo4
+{
+    internal class Program {
+        static void PrintMessage(Object str) {
+            int number = (int)str;
+            Console.WriteLine("Executed By: "+ Thread.CurrentThread.Name);
+            //Thread.Sleep(1000);
+        }
+
+        static void Main(string[] args) {
+            for (int i = 0; i < 5; i++) {
+                ThreadPool.QueueUserWorkItem(PrintMessage, i);
+            }
+            Console.WriteLine("Main Ends here");
         }
     }
 }
