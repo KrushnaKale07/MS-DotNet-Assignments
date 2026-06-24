@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day6_Work_Space\\ThreadSynchronization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1970707-C379-44BD-9185-DEB47548069B}|ThreadSynchronization.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day6_work_space\\threadsynchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1970707-C379-44BD-9185-DEB47548069B}|ThreadSynchronization.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day6_Work_Space\\ThreadSynchronization\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day6_Work_Space\\ThreadSynchronization\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T07:42:49.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

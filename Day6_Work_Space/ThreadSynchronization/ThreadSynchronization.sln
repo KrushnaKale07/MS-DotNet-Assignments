@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSynchronization", "ThreadSynchronization.csproj", "{B1970707-C379-44BD-9185-DEB47548069B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1970707-C379-44BD-9185-DEB47548069B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1970707-C379-44BD-9185-DEB47548069B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1970707-C379-44BD-9185-DEB47548069B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1970707-C379-44BD-9185-DEB47548069B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE431689-2F83-4903-86EC-E6B587F86384}
+	EndGlobalSection
+EndGlobal
