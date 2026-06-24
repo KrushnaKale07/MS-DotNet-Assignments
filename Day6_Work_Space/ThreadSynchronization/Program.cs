@@ -45,6 +45,49 @@ namespace ThreadSynchronization1 {
     internal class Program
     {
 
+        static void Main1(string[] args) {
+            Test t1 = new Test();       //Shared Resources
+
+
+            // ParameterizedThreadStart pts=new ParameterizedThreadStart(t1.GenTable);
+
+            Thread th1 = new Thread(new ParameterizedThreadStart(t1.GenTable));
+            Thread th2 = new Thread(new ParameterizedThreadStart(t1.GenTable));
+
+            th1.Start(10);
+            th2.Start(20);
+        }
+    }
+}
+namespace ThreadSynchronization2
+{
+    public class Test
+    {
+
+
+        private static object locker = new object();
+
+        public void GenTable(object x)
+        {
+            int num1 = (int)x;
+
+            Monitor.Enter(locker);
+            try
+            {
+                for (int i = 1; i <= 10; i++)
+                {
+                    Console.WriteLine($"{num1} * {i} = {num1 * i}");
+                    Thread.Sleep(100);
+                }
+            }
+            finally
+            {
+                Monitor.Exit(locker);
+            }
+        }
+    }
+
+    internal class Progra {
         static void Main(string[] args) {
             Test t1 = new Test();       //Shared Resources
 
