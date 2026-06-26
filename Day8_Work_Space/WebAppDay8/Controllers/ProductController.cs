@@ -7,11 +7,11 @@ namespace WebAppDay8.Controllers
     public class ProductController : Controller
     {
 
-        private readonly ProductService _productService;
+        private readonly IProductService _productService;
 
-        public ProductController()
+        public ProductController(ProductService productService)
         {
-            _productService = new ProductService();
+            _productService = productService;
         }
 
         public IActionResult Index()

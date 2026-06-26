@@ -6,11 +6,11 @@ namespace WebAppDay8.Services
     public class ProductService : IProductService
     {
 
-        private readonly ProductDAO _productDAO;
+        private readonly IProductDAO _productDAO;
 
-        public ProductService()
+        public ProductService(IProductDAO pproductDAO)
         {
-            _productDAO = new ProductDAO();
+            _productDAO = pproductDAO;
         }
 
         public void Add(Product product)

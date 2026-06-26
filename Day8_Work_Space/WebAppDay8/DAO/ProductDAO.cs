@@ -7,29 +7,26 @@ namespace WebAppDay8.DAO
     public class ProductDAO : IProductDAO
     {
 
-        private static List<Product> products = new List<Product>();
+        //private static List<Product> products = new List<Product>();
 
-        static ProductDAO()
+        //static ProductDAO()
+        //{
+        //    products.Add(new Product { Id = 101, Name = "IPhone", Price = 4500.0f, Description = "17 Pro Max" });
+        //}
+
+
+        
+
+        //public ProductDAO(){        }
+        private readonly string conn; 
+        public ProductDAO(IConfiguration configuration)
         {
-            products.Add(new Product { Id = 101, Name = "IPhone", Price = 4500.0f, Description = "17 Pro Max" });
+            conn = configuration.GetConnectionString("MyLocalDBConn");
         }
-
-
-        //private readonly string conn;
-
-        //public ProductDAO()
-        //{
-
-        //}
-
-        //public ProductDAO(IConfiguration configuration)
-        //{
-        //    conn=configuration.GetConnectionString("MyLocalDBConn");
-        //}
 
         public void AddProduct(Product product)
         {
-            products.Add(product);
+            //products.Add(product);
 
             //SqlConnection con = new (conn);
 
@@ -55,6 +52,7 @@ namespace WebAppDay8.DAO
 
         public Product GetProductById(int productId)
         {
+            List<Product> products = new List<Product>();
             foreach (var item in products)
             {
                 if (item.Id == productId)
@@ -68,7 +66,7 @@ namespace WebAppDay8.DAO
 
         public List<Product> GetProducts()
         {
-            //List<Product> products = new List<Product>();
+            List<Product> products = new List<Product>();
 
             //SqlConnection con=new (conn);
 
