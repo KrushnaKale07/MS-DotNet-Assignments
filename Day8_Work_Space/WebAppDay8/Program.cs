@@ -1,3 +1,6 @@
+using WebAppDay8.DAO;
+using WebAppDay8.Services;
+
 namespace WebAppDay8
 {
     public class Program
@@ -6,8 +9,13 @@ namespace WebAppDay8
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<IProductDAO, ProductDAO>();
 
             var app = builder.Build();
 

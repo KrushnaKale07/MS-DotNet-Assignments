@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\dao\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:dao\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\views\\product\\getbyidcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:views\\product\\getbyidcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E695B60-A591-4A44-8370-3F13C7EA9012}|WebAppDay8.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,19 +67,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "DAO\\ProductDAO.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T05:53:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IproductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\DAO\\IproductDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\IproductDAO.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\DAO\\IproductDAO.cs",
+              "RelativeToolTip": "DAO\\IproductDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T05:52:03.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetByIdcshtml.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Views\\Product\\GetByIdcshtml.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\GetByIdcshtml.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Views\\Product\\GetByIdcshtml.cshtml",
+              "RelativeToolTip": "Views\\Product\\GetByIdcshtml.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-26T04:50:00.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T04:40:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T04:22:50.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T04:01:02.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T04:23:52.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T03:57:02.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Create11.cshtml",
               "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Views\\Product\\Create11.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Create11.cshtml",
@@ -63,12 +178,11 @@
               "RelativeToolTip": "Views\\Product\\Create11.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-25T04:38:14.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T04:38:14.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -80,19 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T04:01:02.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
@@ -104,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Create2.cshtml",
               "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Views\\Product\\Create2.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Create2.cshtml",
@@ -116,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
