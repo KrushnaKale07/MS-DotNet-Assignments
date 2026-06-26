@@ -1,0 +1,27 @@
+﻿@model Student
+<h2>Delete Student</h2>
+<h4>Are you sure you want to delete below record ? </h4>
+<table>
+    <tr>
+        <th>Id</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Name</th>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <th>Fees</th>
+        <td>@Model.Fees</td>
+    </tr>
+    <tr>
+        <th>Age</th>
+        <td>@Model.Age</td>
+    </tr>
+</table>
+
+<form asp-action="ConfirmDelete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type = "Submit" class="btn btn-danger">Confirm Delete</button>
+    <a asp-action="Index"> Back to List</a>
+</form>

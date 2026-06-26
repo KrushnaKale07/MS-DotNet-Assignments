@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCWebAppTest
+build_property.RootNamespace = MVCWebAppTest
+build_property.ProjectDir = C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Self Study\Day7_Work_Space\MVCWebAppTest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Self Study\Day7_Work_Space\MVCWebAppTest
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/StudentController1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvbnRyb2xsZXIxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/StudentController1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvbnRyb2xsZXIxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/StudentController1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvbnRyb2xsZXIxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/StudentController1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvbnRyb2xsZXIxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/StudentController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kalem/OneDrive/Documents/C-Dac 2026/MS .Net/Self Study/Day7_Work_Space/MVCWebAppTest/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j9nutw5f1w
