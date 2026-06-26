@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApplDay9.Data;
 
@@ -10,9 +11,11 @@ using WebApplDay9.Data;
 namespace WebApplDay9.Migrations
 {
     [DbContext(typeof(Day9DbContext))]
-    partial class Day9DbContextModelSnapshot : ModelSnapshot
+    [Migration("20260626190853_Third")]
+    partial class Third
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

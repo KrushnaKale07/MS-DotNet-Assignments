@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WebApplDay9.Data;
+using WebApplDay9.Services;
 
 namespace WebApplDay9
 {
@@ -12,6 +13,8 @@ namespace WebApplDay9
             // Add services to the container.
 
             builder.Services.AddDbContext<Day9DbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MySQLConn")));
+
+            builder.Services.AddScoped<IBookService, BookService>();
             
             builder.Services.AddControllersWithViews();
 

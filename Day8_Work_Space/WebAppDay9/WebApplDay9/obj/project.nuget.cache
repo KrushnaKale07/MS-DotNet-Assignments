@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xCYT5r0cKms=",
+  "dgSpecHash": "+C4EQ53YzyM=",
   "success": true,
   "projectFilePath": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj",
   "expectedPackageFiles": [
@@ -79,10 +79,10 @@
     "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.28\\microsoft.entityframeworkcore.8.0.28.nupkg.sha512",
     "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.28\\microsoft.entityframeworkcore.abstractions.8.0.28.nupkg.sha512",
     "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.28\\microsoft.entityframeworkcore.analyzers.8.0.28.nupkg.sha512",
-    "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.28\\microsoft.entityframeworkcore.design.8.0.28.nupkg.sha512",
+    "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.26\\microsoft.entityframeworkcore.design.8.0.26.nupkg.sha512",
     "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.28\\microsoft.entityframeworkcore.relational.8.0.28.nupkg.sha512",
     "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.28\\microsoft.entityframeworkcore.sqlserver.8.0.28.nupkg.sha512",
-    "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.28\\microsoft.entityframeworkcore.tools.8.0.28.nupkg.sha512",
+    "C:\\Users\\kalem\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.9\\microsoft.entityframeworkcore.tools.10.0.9.nupkg.sha512",
     "C:\\Users\\kalem\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\kalem\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
     "C:\\Users\\kalem\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

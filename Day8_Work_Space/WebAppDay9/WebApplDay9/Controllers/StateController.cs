@@ -1,90 +1,88 @@
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WebApplDay9.Data;
 using WebApplDay9.Models;
-using WebApplDay9.Services;
+using WebApplDay9.Data;
 
-public class BookController : Controller
+public class StateController : Controller
 {
     private readonly Day9DbContext _context;
-    private readonly IBookService _bookService;
-    public BookController(Day9DbContext context, IBookService bookService)
+
+    public StateController(Day9DbContext context)
     {
         _context = context;
-        _bookService = bookService;
     }
 
-    // GET: BOOKS
+    // GET: STATES
     public async Task<IActionResult> Index()    
     {
-        return View(await _bookService.GetAll());
+        return View(await _context.States.ToListAsync());
     }
 
-    // GET: BOOKS/Details/5
-    public async Task<IActionResult> Details(int? id)
+    // GET: STATES/Details/5
+    public async Task<IActionResult> Details(int? stateid)
     {
-        if (id == null)
+        if (stateid == null)
         {
             return NotFound();
         }
 
-        var book = await _context.Books
-            .FirstOrDefaultAsync(m => m.Id == id);
-        if (book == null)
+        var state = await _context.States
+            .FirstOrDefaultAsync(m => m.StateId == stateid);
+        if (state == null)
         {
             return NotFound();
         }
 
-        return View(book);
+        return View(state);
     }
 
-    // GET: BOOKS/Create
+    // GET: STATES/Create
     public IActionResult Create()
     {
         return View();
     }
 
-    // POST: BOOKS/Create
+    // POST: STATES/Create
     // To protect from overposting attacks, enable the specific properties you want to bind to.
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Create([Bind("Id,Title,Description,Author,Price")] Book book)
+    public async Task<IActionResult> Create([Bind("StateId,StateName,ContryId,Contry")] State state)
     {
         if (ModelState.IsValid)
         {
-            _context.Add(book);
+            _context.Add(state);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-        return View(book);
+        return View(state);
     }
 
-    // GET: BOOKS/Edit/5
-    public async Task<IActionResult> Edit(int? id)
+    // GET: STATES/Edit/5
+    public async Task<IActionResult> Edit(int? stateid)
     {
-        if (id == null)
+        if (stateid == null)
         {
             return NotFound();
         }
 
-        var book = await _context.Books.FindAsync(id);
-        if (book == null)
+        var state = await _context.States.FindAsync(stateid);
+        if (state == null)
         {
             return NotFound();
         }
-        return View(book);
+        return View(state);
     }
 
-    // POST: BOOKS/Edit/5
+    // POST: STATES/Edit/5
     // To protect from overposting attacks, enable the specific properties you want to bind to.
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Edit(int? id, [Bind("Id,Title,Description,Author,Price")] Book book)
+    public async Task<IActionResult> Edit(int? stateid, [Bind("StateId,StateName,ContryId,Contry")] State state)
     {
-        if (id != book.Id)
+        if (stateid != state.StateId)
         {
             return NotFound();
         }
@@ -93,12 +91,12 @@ public class BookController : Controller
         {
             try
             {
-                _context.Update(book);
+                _context.Update(state);
                 await _context.SaveChangesAsync();
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!BookExists(book.Id))
+                if (!StateExists(state.StateId))
                 {
                     return NotFound();
                 }
@@ -109,44 +107,44 @@ public class BookController : Controller
             }
             return RedirectToAction(nameof(Index));
         }
-        return View(book);
+        return View(state);
     }
 
-    // GET: BOOKS/Delete/5
-    public async Task<IActionResult> Delete(int? id)
+    // GET: STATES/Delete/5
+    public async Task<IActionResult> Delete(int? stateid)
     {
-        if (id == null)
+        if (stateid == null)
         {
             return NotFound();
         }
 
-        var book = await _context.Books
-            .FirstOrDefaultAsync(m => m.Id == id);
-        if (book == null)
+        var state = await _context.States
+            .FirstOrDefaultAsync(m => m.StateId == stateid);
+        if (state == null)
         {
             return NotFound();
         }
 
-        return View(book);
+        return View(state);
     }
 
-    // POST: BOOKS/Delete/5
+    // POST: STATES/Delete/5
     [HttpPost, ActionName("Delete")]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> DeleteConfirmed(int? id)
+    public async Task<IActionResult> DeleteConfirmed(int? stateid)
     {
-        var book = await _context.Books.FindAsync(id);
-        if (book != null)
+        var state = await _context.States.FindAsync(stateid);
+        if (state != null)
         {
-            _context.Books.Remove(book);
+            _context.States.Remove(state);
         }
 
         await _context.SaveChangesAsync();
         return RedirectToAction(nameof(Index));
     }
 
-    private bool BookExists(int? id)
+    private bool StateExists(int? stateid)
     {
-        return _context.Books.Any(e => e.Id == id);
+        return _context.States.Any(e => e.StateId == stateid);
     }
 }
