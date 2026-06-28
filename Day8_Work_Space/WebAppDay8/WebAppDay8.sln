@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDay8", "WebAppDay8.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplDay9", "..\WebAppDay9\WebApplDay9\WebApplDay9.csproj", "{90366ACF-2720-4CA6-98E0-961BB018EA3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppDay10", "..\WebAppDay10\WebAppDay10\WebAppDay10.csproj", "{100159BC-5BF9-4683-A2F0-CAE374F17051}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{90366ACF-2720-4CA6-98E0-961BB018EA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90366ACF-2720-4CA6-98E0-961BB018EA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90366ACF-2720-4CA6-98E0-961BB018EA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100159BC-5BF9-4683-A2F0-CAE374F17051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100159BC-5BF9-4683-A2F0-CAE374F17051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100159BC-5BF9-4683-A2F0-CAE374F17051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100159BC-5BF9-4683-A2F0-CAE374F17051}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

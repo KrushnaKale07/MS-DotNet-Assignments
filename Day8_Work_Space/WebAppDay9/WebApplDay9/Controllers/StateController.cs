@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplDay9.Models;
 using WebApplDay9.Data;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 public class StateController : Controller
 {
@@ -16,7 +17,7 @@ public class StateController : Controller
     // GET: STATES
     public async Task<IActionResult> Index()    
     {
-        return View(await _context.States.ToListAsync());
+        return View(await _context.States.Include(  s=>s.Contry).ToListAsync());
     }
 
     // GET: STATES/Details/5
@@ -40,6 +41,7 @@ public class StateController : Controller
     // GET: STATES/Create
     public IActionResult Create()
     {
+        ViewBag.ContryId = new SelectList(_context.Contries.ToList(),"ContryId", "ContryName");
         return View();
     }
 
@@ -82,11 +84,7 @@ public class StateController : Controller
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Edit(int? stateid, [Bind("StateId,StateName,ContryId,Contry")] State state)
     {
-        if (stateid != state.StateId)
-        {
-            return NotFound();
-        }
-
+       
         if (ModelState.IsValid)
         {
             try

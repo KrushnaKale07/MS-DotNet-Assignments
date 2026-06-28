@@ -25,9 +25,9 @@
                 @Html.DisplayFor(model => item.ContryName)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ContryId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ContryId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ContryId">Delete</a>
+                <a asp-action="Edit" asp-route-contryid="@item.ContryId">Edit</a> |
+                    <a asp-action="Details" asp-route-contryid="@item.ContryId">Details</a> |
+                    <a asp-action="Delete" asp-route-contryid="@item.ContryId">Delete</a>
             </td>
         </tr>
 }
