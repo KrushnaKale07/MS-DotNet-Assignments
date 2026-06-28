@@ -253,3 +253,5 @@ C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Self Study\Day8_Work_Space\
 C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Self Study\Day8_Work_Space\WebAppDay9\WebApplDay9\obj\Debug\net8.0\WebApplDay9.pdb
 C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Self Study\Day8_Work_Space\WebAppDay9\WebApplDay9\obj\Debug\net8.0\WebApplDay9.genruntimeconfig.cache
 C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Self Study\Day8_Work_Space\WebAppDay9\WebApplDay9\obj\Debug\net8.0\ref\WebApplDay9.dll
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Self Study\Day8_Work_Space\WebAppDay9\WebApplDay9\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutAdmin .cshtml.rz.scp.css
+C:\Users\kalem\OneDrive\Documents\C-Dac 2026\MS .Net\Self Study\Day8_Work_Space\WebAppDay9\WebApplDay9\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutUser.cshtml.rz.scp.css

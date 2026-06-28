@@ -1,3 +1,16 @@
 ﻿@{
-    Layout = "_Layout";
+    var role = Context.Session.GetString("UserRole");
+
+    if (role == "Admin")
+    {
+        Layout = "_LayoutAdmin";
+    }
+    else if (role == "User")
+    {
+        Layout = "_LayoutUser";
+    }
+    else
+    {
+        Layout = "_Layout";
+    }
 }

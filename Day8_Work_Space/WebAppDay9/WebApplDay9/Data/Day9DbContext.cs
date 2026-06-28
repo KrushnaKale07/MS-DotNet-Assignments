@@ -12,6 +12,7 @@ namespace WebApplDay9.Data
         public DbSet<Book> Books { get; set; }
         public DbSet<Contry> Contries { get; set; }
         public DbSet<State> States { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder) { 
             base.OnModelCreating(modelBuilder);

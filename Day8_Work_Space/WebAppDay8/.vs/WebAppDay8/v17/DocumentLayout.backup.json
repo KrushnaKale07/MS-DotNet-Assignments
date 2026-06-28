@@ -3,52 +3,49 @@
   "WorkspaceRootPath": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\state\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\shared\\_layoutadmin .cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\account\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\account\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\webapplday9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\data\\day9dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\models\\contry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\state\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\state\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\controllers\\contrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\state\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\state\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\migrations\\20260626182359_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\migrations\\20260626145123_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\migrations\\20260626190853_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90366ACF-2720-4CA6-98E0-961BB018EA3E}|..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj|c:\\users\\kalem\\onedrive\\documents\\c-dac 2026\\ms .net\\self study\\day8_work_space\\webappday9\\webapplday9\\views\\state\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +55,63 @@
       "DocumentGroups": [
         {
           "DockedHeight": 340,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T17:15:33.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T17:15:03.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin .cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_LayoutAdmin .cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_LayoutAdmin .cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_LayoutAdmin .cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_LayoutAdmin .cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T17:14:46.3Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T14:29:05.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -70,201 +119,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Index.cshtml",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Account\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Account\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Account\\AdminDashboard.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Account\\AdminDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-27T04:00:35.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Book\\Create.cshtml",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Book\\Create.cshtml",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Book\\Create.cshtml",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Book\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-26T18:12:15.383Z",
+              "WhenOpened": "2026-06-28T15:28:26.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Controllers\\BookController.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwFkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:02:41.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Services\\BookService.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Services\\BookService.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Services\\BookService.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Services\\BookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:20:34.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwCIAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-26T18:28:52.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Program.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Program.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Program.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T14:43:33.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebApplDay9.csproj",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\WebApplDay9.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-26T19:17:01.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20260626190853_Third.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Migrations\\20260626190853_Third.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Migrations\\20260626190853_Third.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Migrations\\20260626190853_Third.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Migrations\\20260626190853_Third.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:08:53.562Z"
+              "WhenOpened": "2026-06-28T14:07:30.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Services\\IBookService.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Services\\IBookService.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Services\\IBookService.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Services\\IBookService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T19:17:50.018Z"
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Account\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Account\\UserDashboard.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Account\\UserDashboard.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Account\\UserDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T15:29:26.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Day9DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Data\\Day9DbContext.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Data\\Day9DbContext.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Data\\Day9DbContext.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Data\\Day9DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T14:39:25.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Contry.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Models\\Contry.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Models\\Contry.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Models\\Contry.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Models\\Contry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:20:26.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Models\\Book.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T14:27:34.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ContryController.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Controllers\\ContryController.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Controllers\\ContryController.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Controllers\\ContryController.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Controllers\\ContryController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwEgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:27:27.058Z"
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T14:11:15.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "20260626182359_Second.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Migrations\\20260626182359_Second.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Migrations\\20260626182359_Second.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Migrations\\20260626182359_Second.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Migrations\\20260626182359_Second.cs",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Delete.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:23:59.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\appsettings.json",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\appsettings.json",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-26T14:25:01.355Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T14:29:07.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "20260626145123_First.cs",
-              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Migrations\\20260626145123_First.cs",
-              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Migrations\\20260626145123_First.cs",
-              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Migrations\\20260626145123_First.cs",
-              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Migrations\\20260626145123_First.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Create.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T14:29:07.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Details.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T14:29:07.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Edit.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T14:29:07.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\State\\Index.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\State\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T14:29:07.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\DAO\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\DAO\\UserDAO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T14:51:23.752Z"
+              "WhenOpened": "2026-06-28T14:31:43.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\WebAppDay9\\WebApplDay9\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kalem\\OneDrive\\Documents\\C-Dac 2026\\MS .Net\\Self Study\\Day8_Work_Space\\WebAppDay9\\WebApplDay9\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "..\\WebAppDay9\\WebApplDay9\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-28T14:50:56.604Z",
+              "EditorCaption": ""
             }
           ]
         }
